@@ -1,0 +1,97 @@
+[
+  {
+    "recipe_image": "https://i.ibb.co.com/BG913hy/lavash-rolls-with-stuffings-tomatoes.jpg",
+    "recipe_id": "001",
+    "recipe_name": "Chicken Curry",
+    "short_description": "A spicy, flavorful chicken curry with rich coconut milk.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom",
+      "200 ml coconut milk",
+      "1 onion"
+    ],
+    "preparing_time": "45 min",
+    "calories": "500 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/7kQx6T7/chicken-skewers-with-slices-sweet-peppers-dill.jpg",
+    "recipe_id": "002",
+    "recipe_name": "Spaghetti Bolognese",
+    "short_description": "Classic Italian pasta with a rich, meaty tomato sauce.",
+    "ingredients": [
+      "300 g ground beef",
+      "1 onion",
+      "2 garlic cloves",
+      "500 g tomatoes",
+      "200 g spaghetti",
+      "50 g parmesan"
+    ],
+    "preparing_time": "30 min",
+    "calories": "650 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/BG913hy/lavash-rolls-with-stuffings-tomatoes.jpg",
+    "recipe_id": "003",
+    "recipe_name": "Vegetable Soup",
+    "short_description": "A healthy and hearty vegetable soup with fresh seasonal vegetables.",
+    "ingredients": [
+      "200 g carrots",
+      "150 g potatoes",
+      "100 g celery",
+      "1 onion",
+      "2 garlic cloves",
+      "1 liter vegetable broth"
+    ],
+    "preparing_time": "40 min",
+    "calories": "220 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/7kQx6T7/chicken-skewers-with-slices-sweet-peppers-dill.jpg",
+    "recipe_id": "004",
+    "recipe_name": "Grilled Salmon",
+    "short_description": "A simple and delicious grilled salmon with lemon and herbs.",
+    "ingredients": [
+      "4 salmon fillets",
+      "1 lemon",
+      "2 tbsp olive oil",
+      "1 garlic clove",
+      "1 tsp dill"
+    ],
+    "preparing_time": "25 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/BG913hy/lavash-rolls-with-stuffings-tomatoes.jpg",
+    "recipe_id": "005",
+    "recipe_name": "Chocolate Cake",
+    "short_description": "A rich and moist chocolate cake with a smooth frosting.",
+    "ingredients": [
+      "200 g flour",
+      "100 g cocoa powder",
+      "200 g sugar",
+      "3 eggs",
+      "150 g butter",
+      "1 tsp vanilla extract"
+    ],
+    "preparing_time": "1 hour",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/7kQx6T7/chicken-skewers-with-slices-sweet-peppers-dill.jpg",
+    "recipe_id": "006",
+    "recipe_name": "Pancakes",
+    "short_description": "Fluffy, golden pancakes perfect for breakfast or brunch.",
+    "ingredients": [
+      "200 g flour",
+      "2 eggs",
+      "300 ml milk",
+      "50 g butter",
+      "1 tsp vanilla extract",
+      "1 tbsp sugar"
+    ],
+    "preparing_time": "20 min",
+    "calories": "250 calories"
+  }
+]
